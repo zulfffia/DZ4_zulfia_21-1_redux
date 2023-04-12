@@ -1,10 +1,9 @@
 import './App.css';
-import Container from './components/Counter';
-
+import Count from "./components/Counter";
 function App(){
   return(
       <>
-        <Container/>
+        <Count/>
       </>
   )
 }

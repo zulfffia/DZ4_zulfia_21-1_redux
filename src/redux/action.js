@@ -20,7 +20,7 @@ export const MultiplayAction = (multiplay) =>{
         payload: multiplay
     }
 }
-export const divisionAction = (division) =>{
+export const DivisionAction = (division) =>{
     return{
         type: types.DIVISION,
         payload: division
